@@ -1,0 +1,1 @@
+Choose a branch (different branch for different minecraft version, JAVA ONLY!), then download it as zip and extract it in your mods & resourcepacks folder.
